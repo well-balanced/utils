@@ -1,3 +1,9 @@
+/**
+ * @example
+ * setPropertyRecursive([key1, key2, key3], 'hello world', { hello: 'world' })
+ * => { key1: {key2: {key3: 'hello world'} }, hello: 'world' }
+ */
+
 export function setPropertyRecursive<T>(
   [key, ...rest]: string[],
   value: any,

@@ -1,11 +1,5 @@
 import { setPropertyRecursive } from './setPropertyRecursive';
 
-/**
- * @example
- * setPropertyRecursive([key1, key2, key3], 'hello world', { hello: 'world' })
- * => { key1: {key2: {key3: 'hello world'} }, hello: 'world' }
- */
-
 test('setPropertyRecursive', () => {
   /**
    * Given

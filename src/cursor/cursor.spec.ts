@@ -20,6 +20,7 @@ it('cursor', () => {
   /**
    * Then
    */
+  console.log(cursor)
   expect(typeof cursor).toBe('string')
   expect(decoded.age).toBe(20)
   expect(decoded.name).toBe('name')

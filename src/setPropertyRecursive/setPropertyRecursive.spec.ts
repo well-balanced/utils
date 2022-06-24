@@ -1,20 +1,20 @@
-import { setPropertyRecursive } from './setPropertyRecursive';
+import { setPropertyRecursive } from '.'
 
-test('setPropertyRecursive', () => {
+it('setPropertyRecursive', () => {
   /**
    * Given
    */
-  const keys = ['first', 'second', 'third'];
-  const value = 'setPropertyRecursive';
-  const obj = { hello: 'world' };
+  const keys = ['first', 'second', 'third']
+  const value = 'setPropertyRecursive'
+  const obj = { hello: 'world' }
 
   /**
    * When
    */
-  const newObj = setPropertyRecursive(keys, value, obj);
+  const newObj = setPropertyRecursive(keys, value, obj)
 
   /**
    * Then
    */
-  expect(newObj.first.second.third).toBe('setPropertyRecursive');
-});
+  expect(newObj.first.second.third).toBe('setPropertyRecursive')
+})

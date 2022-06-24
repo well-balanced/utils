@@ -1,1 +1,1 @@
-export * from './setPropertyRecursive';
+export * from './setPropertyRecursive'

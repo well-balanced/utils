@@ -1,8 +1,8 @@
 {
     "name": "@well-balanced/utils",
-    "version": "0.1.0",
+    "version": "0.1.3",
     "description": "JavaScript / TypeScript utils",
-    "main": "tsc",
+    "main": "dist/index.js",
     "files": [
         "dist"
     ],

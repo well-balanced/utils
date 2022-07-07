@@ -67,7 +67,7 @@ $ npm i @well-balanced/utils
 source
 - [encodeCursor](https://github.com/well-balanced/utils/blob/main/src/cursor/encodeCursor.ts)
 - [decodeCursor](https://github.com/well-balanced/utils/blob/main/src/cursor/decodeCursor.ts)
-- 
+  
 [test](https://github.com/well-balanced/utils/blob/main/src/cursor/cursor.spec.ts)
 
 ### getFulfilledResult

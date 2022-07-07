@@ -35,26 +35,31 @@ $ npm i @well-balanced/utils
 ### cleanObject
 
 [source](https://github.com/well-balanced/utils/blob/main/src/cleanObject/index.ts)
+
 [test](https://github.com/well-balanced/utils/blob/main/src/cleanObject/cleanObject.spec.ts)
 
 ### reduceSeries
 
 [source](https://github.com/well-balanced/utils/blob/main/src/reduceSeries/index.ts)
+
 [test](https://github.com/well-balanced/utils/blob/main/src/reduceSeries/reduceSeries.spec.ts)
 
 ### mapSeries
 
 [source](https://github.com/well-balanced/utils/blob/main/src/mapSeries/index.ts)
+
 [test](https://github.com/well-balanced/utils/blob/main/src/mapSeries/mapSeries.spec.ts)
 
 ### readdirRecursive
 
 [source](https://github.com/well-balanced/utils/blob/main/src/readdirRecursive/index.ts)
+
 [test](https://github.com/well-balanced/utils/blob/main/src/readdirRecursive/readdirRecursive.spec.ts)
 
 ### setPropertyRecursive
 
 [source](https://github.com/well-balanced/utils/blob/main/src/setPropertyRecursive/index.ts)
+
 [test](https://github.com/well-balanced/utils/blob/main/src/setPropertyRecursive/setPropertyRecursive.spec.ts)
 
 ### cursor
@@ -62,11 +67,13 @@ $ npm i @well-balanced/utils
 source
 - [encodeCursor](https://github.com/well-balanced/utils/blob/main/src/cursor/encodeCursor.ts)
 - [decodeCursor](https://github.com/well-balanced/utils/blob/main/src/cursor/decodeCursor.ts)
+- 
 [test](https://github.com/well-balanced/utils/blob/main/src/cursor/cursor.spec.ts)
 
 ### getFulfilledResult
 
 [source](https://github.com/well-balanced/utils/blob/main/src/getFulfilledResult/index.ts)
+
 [test](https://github.com/well-balanced/utils/blob/main/src/getFulfilledResult/getFulfilledResult.spec.ts)
 
 ### msleep

@@ -1,4 +1,4 @@
-# @well-balanced/utils
+# utils
 
 [![NPM Version][npm-image]][npm-url]
 

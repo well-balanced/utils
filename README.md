@@ -34,33 +34,44 @@ $ npm i @well-balanced/utils
 
 ### cleanObject
 
-[test code](https://github.com/well-balanced/utils/blob/main/src/cleanObject/cleanObject.spec.ts)
+[source](https://github.com/well-balanced/utils/blob/main/src/cleanObject/index.ts)
+[test](https://github.com/well-balanced/utils/blob/main/src/cleanObject/cleanObject.spec.ts)
 
 ### reduceSeries
 
-[test code](https://github.com/well-balanced/utils/blob/main/src/reduceSeries/reduceSeries.spec.ts)
+[source](https://github.com/well-balanced/utils/blob/main/src/reduceSeries/index.ts)
+[test](https://github.com/well-balanced/utils/blob/main/src/reduceSeries/reduceSeries.spec.ts)
 
 ### mapSeries
 
-[test code](https://github.com/well-balanced/utils/blob/main/src/mapSeries/mapSeries.spec.ts)
+[source](https://github.com/well-balanced/utils/blob/main/src/mapSeries/index.ts)
+[test](https://github.com/well-balanced/utils/blob/main/src/mapSeries/mapSeries.spec.ts)
 
 ### readdirRecursive
 
-[test code](https://github.com/well-balanced/utils/blob/main/src/readdirRecursive/readdirRecursive.spec.ts)
+[source](https://github.com/well-balanced/utils/blob/main/src/readdirRecursive/index.ts)
+[test](https://github.com/well-balanced/utils/blob/main/src/readdirRecursive/readdirRecursive.spec.ts)
 
 ### setPropertyRecursive
 
-[test code](https://github.com/well-balanced/utils/blob/main/src/setPropertyRecursive/setPropertyRecursive.spec.ts)
+[source](https://github.com/well-balanced/utils/blob/main/src/setPropertyRecursive/index.ts)
+[test](https://github.com/well-balanced/utils/blob/main/src/setPropertyRecursive/setPropertyRecursive.spec.ts)
 
 ### cursor
 
-[test code](https://github.com/well-balanced/utils/blob/main/src/cursor/cursor.spec.ts)
+source
+- [encodeCursor](https://github.com/well-balanced/utils/blob/main/src/cursor/encodeCursor.ts)
+- [decodeCursor](https://github.com/well-balanced/utils/blob/main/src/cursor/decodeCursor.ts)
+[test](https://github.com/well-balanced/utils/blob/main/src/cursor/cursor.spec.ts)
 
 ### getFulfilledResult
 
-[test code](https://github.com/well-balanced/utils/blob/main/src/getFulfilledResult/getFulfilledResult.spec.ts)
+[source](https://github.com/well-balanced/utils/blob/main/src/getFulfilledResult/index.ts)
+[test](https://github.com/well-balanced/utils/blob/main/src/getFulfilledResult/getFulfilledResult.spec.ts)
 
 ### msleep
+
+[source](https://github.com/well-balanced/utils/blob/main/src/msleep/index.ts)
 
 
 

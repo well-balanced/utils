@@ -9,7 +9,7 @@ JavaScript / TypeScript utils
 
 ## Table of Contents
 
-- [@well-balanced/utils](#well-balancedutils)
+- [utils](#utils)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
@@ -33,10 +33,15 @@ $ npm i @well-balanced/utils
 ## Usage
 
 ### cleanObject
+If the object has fields with an `undefined` value, clean it.
 
-[source](https://github.com/well-balanced/utils/blob/main/src/cleanObject/index.ts)
+**example**
 
-[test](https://github.com/well-balanced/utils/blob/main/src/cleanObject/cleanObject.spec.ts)
+```ts
+const user = { id: 'id', name: 'name', age: 20, gender: undefined }
+const cleaned = cleanObject(user) // { id: 'id', name: 'name', age: 20}
+```
+
 
 ### reduceSeries
 
